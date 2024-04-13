@@ -5,7 +5,7 @@
 
   <span>  </span>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hollowgl&theme=radical&count_private=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollowgl&theme=radical&layout=compact" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollowgl&theme=radical&layout=compact&hide=javascript,html,css" />
   
   <span>  </span>
 </div>
